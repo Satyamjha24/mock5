@@ -1,12 +1,18 @@
 {
-    "users": [
-      
-    ],
-    "Income":[
-
-    ],
-    "Expense":[
-      
-    ]
-  }
-  
+  "users": [
+    {
+      "username": "Satyamjha",
+      "email": "satyam@gmail.com",
+      "password": "12345",
+      "id": 1
+    },
+    {
+      "username": "Ajay",
+      "email": "ajay@gmail.com",
+      "password": "1234",
+      "id": 2
+    }
+  ],
+  "Income": [],
+  "Expense": []
+}
